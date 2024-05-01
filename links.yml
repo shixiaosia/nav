@@ -45,17 +45,17 @@ categories:
     hide_menu: false
     links: 
       - title: 菲特动漫
-        loge: 
+        loge: https://api.iowen.cn/favicon/fitacg.com.png
         url: https://fitacg.com/
         description: 新番资源推送速度快
         tags: 动漫
       - title: 萌番组 
-        loge: 
+        loge: https://api.iowen.cn/favicon/bangumi.moe.png
         url: https://bangumi.moe/
         description: 小站
         tags: 动漫
       - title: 末日動漫資源庫 
-        loge: 
+        loge: https://api.iowen.cn/favicon/share.acgnx.se.png
         url: https://share.acgnx.se/
         description: 部分番剧有4K资源，非常齐全 
         tags: 动漫
