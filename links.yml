@@ -270,7 +270,7 @@ categories:
         loge: 
         url: https://vndb.org/
         description: 欧美著名galgame图书馆&评分网站 
-       tags: ACG
+        tags: ACG
   - category: GalGame
     icon: linecons-star
     hide_menu: false
