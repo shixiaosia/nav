@@ -40,6 +40,30 @@ link_submission_url: https://github.com/shixiaosia/nav/issues
 ## 网址导航数据
 ################
 categories:
+  - category: 实用工具
+    icon: inecons-star
+    hide_menu: false
+    links: 
+      - title: accesser
+        loge: 
+        url: https://github.com/URenko/Accesser
+        description: 用于防止SNI阻断
+        tags: SNI
+      - title: GotoX
+        loge: 
+        url: https://github.com/SeaHOH/GotoX
+        description: 用于防止SNI阻断
+        tags: SNI
+      - title: Pixiv-Nginx
+        loge: 
+        url: https://github.com/mashirozx/Pixiv-Nginx
+        description: 本地反向代理，网上可以搜到教程
+        tags: 本地反代
+      - title: Chromium系列浏览器启动参数
+        loge: 
+        url: https://shixiaosia.github.io/2024/05/01/%E9%80%9A%E8%BF%87%E9%85%8D%E7%BD%AEChromium%E7%B3%BB%E5%88%97%E6%B5%8F%E8%A7%88%E5%99%A8%E5%90%AF%E5%8A%A8%E5%8F%82%E6%95%B0%E4%BB%A5%E8%A7%A3%E5%86%B3DNS%E6%B1%A1%E6%9F%93%E4%B8%8ESNI%E9%98%BB%E6%96%AD/
+        description: chromium系列绕过DNS污染和SNI阻断的方法
+        tags: SNI
   - category: 动漫种子站
     icon: inecons-star
     hide_menu: false
