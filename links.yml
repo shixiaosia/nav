@@ -48,52 +48,52 @@ categories:
         loge: 
         url: https://fitacg.com/
         description: 新番资源推送速度快
-        tags: 动漫 种子
+        tags: 动漫
       - litle: 萌番组 
         loge: 
         url: https://bangumi.moe/
         description: 小站
-        tags: 动漫 种子
+        tags: 动漫
       - litle: 末日動漫資源庫 
         loge: 
         url: https://share.acgnx.se/
         description: 部分番剧有4K资源，非常齐全 
-        tags: 动漫 种子
+        tags: 动漫
       - litle: VCB-Studio 
         loge: 
         url: 国内非常著名动漫压制组
         description: https://vcb-s.com/
-        tags: 动漫 种子
+        tags: 动漫
       - litle: acg.rip 
         loge: 
         url: https://acg.rip/
         description: 知名动漫bt下载资源站 
-        tags: 动漫 种子
+        tags: 动漫
       - litle: MioBT 
         loge: https://api.iowen.cn/favicon/miobt.com.png
         url: http://miobt.com/
         description: 
-        tags: 动漫 种子
+        tags: 动漫
       - litle: 漫猫动漫BT 
         loge: 
         url: http://www.comicat.org/
         description: 漫猫动漫BT 
-        tags: 动漫 种子
+        tags: 动漫
       - litle: 蜜柑计划 
         loge: 
         url: https://mikanani.me/
         description: 蜜柑计划：新一代的动漫下载站 
-        tags: 动漫 种子
+        tags: 动漫
       - litle: 爱恋动漫BT 
         loge: 
         url: http://www.kisssub.org/
         description: 爱恋动漫BT下载，爱恋BT分享站，动漫下载，BT磁力，字幕组，生肉资源，BD资源 
-        tags: 动漫 种子
+        tags: 动漫
       - litle: 动漫花园资源网 
         loge: 
         url: https://dmhy.anoneko.com/
         description: 动漫花园资源网是一个动漫爱好者交流的平台,提供最及时,最全面的动画,漫画,动漫音乐,动漫下载,BT,ED,动漫游戏,资讯,分享,交流,讨论. 
-        tags: 动漫 种子
+        tags: 动漫
 
   - category: ACG购物
     icon: inecons-star
@@ -162,37 +162,37 @@ categories:
         loge: 
         url: https://readhentai.info/
         description: 支持滚动阅读，加载较慢
-        tags: 漫画 本子
+        tags: 漫画
       - title: 松鼠症倉庫
         loge: 
         url: http://riven.cfd/
         description: 松鼠症倉庫【發佈頁】
-        tags: 漫画 本子
+        tags: 漫画
       - title: 紳士漫畫
         loge: 
         url: https://www.wnacg.com/
         description: 日韩本子都有，可预览
-        tags: 漫画 本子
+        tags: 漫画
       - title: nhentai
         loge: 
         url: https://nhentai.net/
         description: 英文界面，更新速度较快
-        tags: 漫画 本子
+        tags: 漫画
       - title: 禁漫天堂
         loge: 
         url: https://jmcomic1.bet/
         description: 【发布页】不太全的本子在线阅读&下载&交流站
-        tags: 漫画 本子
+        tags: 漫画
       - title: AsmHentai
         loge: 
         url: https://asmhentai.com/
         description: 英文界面，本子较全
-        tags: 漫画 本子
-      - title: AB 站
+        tags: 漫画
+      - title: AB站
         loge: 
         url: https://acgbeo.com/
         description: 国内某不知名本子在线阅览站
-        tags: 漫画 本子
+        tags: 漫画
       - title: ExHentai
         loge: 
         url: https://exhentai.org/
