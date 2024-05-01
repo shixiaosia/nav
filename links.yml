@@ -3,176 +3,399 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: GenEasy 网址导航
+title: EasyACG
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
-keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全,GenEasy,Github,Github Pages,SSG
+keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,GenEasy,Github,Github Pages,SSG
 # 网址导航页面描述（可选）
 description: 网址导航静态页面通用模板。
 # 网址导航页面 URL（可选）
-url: https://geneasy.github.io/nav/
+url: https://shixiaosia.github.io/nav/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
-og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+#og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-home_url: https://geneasy.github.io/nav/
+home_url: https://shixiaosia.github.io/nav/
 # GitHub 链接（可选）
-github_url: https://github.com/geneasy/nav
+github_url: https://github.com/shixiaosia/nav
 # 网站 about 链接（可选）
-about_url: https://github.com/geneasy/nav
+#about_url: https://github.com/geneasy/nav
 # 提交链接的 URL
-link_submission_url: https://github.com/geneasy/nav/issues
+link_submission_url: https://github.com/shixiaosia/nav/issues
 # 网站友情链接（可选）
-friendship_links_url: https://geneasy.github.io/links/
+#friendship_links_url: https://geneasy.github.io/links/
 # Google Analytics Code（可选）
 # ga_tracking_code_id: G-ABCDEFG
 
 ################
 ## 导航栏
 ################
-navigation_urls:
-  - title: 页面1
-    url: page1/
-  - title: 页面2
-    url: page2/
+#navigation_urls:
+#  - title: 页面1
+#    url: page1/
 
 ################
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 动漫种子站
+    icon: inecons-star
+    hide_menu: false
+    links: 
+      - litle: 菲特动漫
+        loge: 
+        url: https://fitacg.com/
+        description: 新番资源推送速度快
+        tags: 动漫 种子
+      - litle: 萌番组 
+        loge: 
+        url: https://bangumi.moe/
+        description: 小站
+        tags: 动漫 种子
+      - litle: 末日動漫資源庫 
+        loge: 
+        url: https://share.acgnx.se/
+        description: 部分番剧有4K资源，非常齐全 
+        tags: 动漫 种子
+      - litle: VCB-Studio 
+        loge: 
+        url: 国内非常著名动漫压制组
+        description: https://vcb-s.com/
+        tags: 动漫 种子
+      - litle: acg.rip 
+        loge: 
+        url: https://acg.rip/
+        description: 知名动漫bt下载资源站 
+        tags: 动漫 种子
+      - litle: MioBT 
+        loge: https://api.iowen.cn/favicon/miobt.com.png
+        url: http://miobt.com/
+        description: 
+        tags: 动漫 种子
+      - litle: 漫猫动漫BT 
+        loge: 
+        url: http://www.comicat.org/
+        description: 漫猫动漫BT 
+        tags: 动漫 种子
+      - litle: 蜜柑计划 
+        loge: 
+        url: https://mikanani.me/
+        description: 蜜柑计划：新一代的动漫下载站 
+        tags: 动漫 种子
+      - litle: 爱恋动漫BT 
+        loge: 
+        url: http://www.kisssub.org/
+        description: 爱恋动漫BT下载，爱恋BT分享站，动漫下载，BT磁力，字幕组，生肉资源，BD资源 
+        tags: 动漫 种子
+      - litle: 动漫花园资源网 
+        loge: 
+        url: https://dmhy.anoneko.com/
+        description: 动漫花园资源网是一个动漫爱好者交流的平台,提供最及时,最全面的动画,漫画,动漫音乐,动漫下载,BT,ED,动漫游戏,资讯,分享,交流,讨论. 
+        tags: 动漫 种子
+
+  - category: ACG购物
+    icon: inecons-star
+    hide_menu: false
+    links: 
+      - litle: cmoa 
+        loge: 
+        url: https://www.cmoa.jp/
+        description: 日本官方最全漫画电子版购买平台
+        tags: 购物
+      - litle: Digiket
+        loge: 
+        url: https://www.digiket.com/game/
+        description: 日本知名ACG网上购物平台
+        tags: 购物
+      - litle: 駿河屋
+        loge: 
+        url: https://www.suruga-ya.jp/
+        description: 日本著名中古店
+        tags: 购物
+      - litle: AKIBA☆Sofmap
+        loge: 
+        url: https://a.sofmap.com/
+        description: 日本知名ACG网上购物平台
+        tags: 购物
+      - litle: Gyutto
+        loge: 
+        url: http://gyutto.com/
+        description: 日本知名ACG网上购物平台
+        tags: 购物
+      - litle: あみあみ
+        loge: 
+        url: https://www.amiami.jp/
+        description: 以手办为主的网购平台
+        tags: 购物
+      - litle: とらのあな
+        loge: 
+        url: https://ec.toranoana.jp/tora_r/ec/
+        description: 虎の穴，日本著名ACG购买平台
+        tags: 购物
+      - litle: Melonbooks 
+        loge: 
+        url: https://www.melonbooks.co.jp/
+        description: 日本著名ACG网上购物平台 
+        tags: 购物
+      - litle: FANZA 
+        loge: 
+        url: https://games.dmm.co.jp
+        description: 日本著名R18游戏购买平台 
+        tags: 购物
+      - litle: Dlsite 
+        loge: 
+        url: https://www.dlsite.com/index.html
+        description: 日本/台湾/中国知名ACG在线购物平台 
+        tags: 购物
+      - litle: Getchu
+        loge: 
+        url: http://www.getchu.com/top.html
+        description: 日本著名ACG网上购物平台 
+        tags: 购物
+  - category: 在线本子
     icon: linecons-star
+    hide_menu: false
     links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
-      - title: BestXTools 社区
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
-        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
-        tags: 在线工具,周刊,社区
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: Pipecraft 社区
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-
-  - category: 推荐
-    hide_menu: true
+      - title: ReadHentai
+        loge: 
+        url: https://readhentai.info/
+        description: 支持滚动阅读，加载较慢
+        tags: 漫画 本子
+      - title: 松鼠症倉庫
+        loge: 
+        url: http://riven.cfd/
+        description: 松鼠症倉庫【發佈頁】
+        tags: 漫画 本子
+      - title: 紳士漫畫
+        loge: 
+        url: https://www.wnacg.com/
+        description: 日韩本子都有，可预览
+        tags: 漫画 本子
+      - title: nhentai
+        loge: 
+        url: https://nhentai.net/
+        description: 英文界面，更新速度较快
+        tags: 漫画 本子
+      - title: 禁漫天堂
+        loge: 
+        url: https://jmcomic1.bet/
+        description: 【发布页】不太全的本子在线阅读&下载&交流站
+        tags: 漫画 本子
+      - title: AsmHentai
+        loge: 
+        url: https://asmhentai.com/
+        description: 英文界面，本子较全
+        tags: 漫画 本子
+      - title: AB 站
+        loge: 
+        url: https://acgbeo.com/
+        description: 国内某不知名本子在线阅览站
+        tags: 漫画 本子
+      - title: ExHentai
+        loge: 
+        url: https://exhentai.org/
+        description: 里站
+        tags画 本子
+  - category: ACG图书馆
     icon: linecons-star
+    hide_menu: false
     links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
-      - title: BestXTools 社区
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
-        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
-        tags: 在线工具,周刊,社区
-      - title: Pipecraft 社区
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: 纵横网址导航
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
-        url: https://zh.pipecraft.net/
-        description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
-        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
-
-  - category: 程序员博客
-    icon: linecons-doc
+      - title: GAL图书馆
+        loge: 
+        url: https://gallibrary.pw/index.html
+        description: 导航处有时间馆功能，很有特色
+        tags: ACG
+      - title: Hpoi手办维基
+        loge: 
+        url: https://www.hpoi.net/index/home
+        description: 手办维基|手办大全
+        tags: ACG
+      - title: MyAnimeList
+        loge: 
+        url: https://myanimelist.net/
+        description: 番剧图书馆（包含里番），英文界面
+        tags: ACG
+      - title: SteamGalgame
+        loge: 
+        url: https://steamgalgame.com/
+        description: 收录steam上所有官方汉化的Galgame信息站
+        tags: ACG
+      - title: 萌系游戏大赏
+        loge: 
+        url: http://moe-gameaward.com/top.html
+        description: 萌系游戏大赏是日本一个评选成人向美少女游戏的奖项，由萌系游戏大赏实行委员会主办。
+        tags: ACG
+      - title: CnGal
+        loge: 
+        url: https://www.cngal.org/
+        description: 国产Galgame信息站
+        tags: ACG
+      - title: 穹之空
+        loge: 
+        url: https://docs.google.com/spreadsheets/d/1xOzRNqtdjjX445izA392jvMTMRgBQ5XcEawC5spR3_Y/edit#gid=572994687
+        description: 随时了解汉化进程和最新发布作品。
+        tags: ACG
+      - title: Bangumi番组计划
+        loge: 
+        url: https://bgm.tv/
+        description: 中国著名ACG图书馆&评分网站
+        tags: ACG
+      - title: 2DFan
+        loge: 
+        url: https://galge.fun/subjects
+        description: 中国著名galgame图书馆&评分网站
+        tags: ACG
+      - title: エロゲー批評空間
+        loge: 
+        url: 日本著名galgame图书馆&评分网站
+        description: http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/
+        tags: ACG
+      - title: anidb
+        loge: 
+        url: https://anidb.net/
+        description: 欧美著名日本动漫图书馆&评分网站
+        tags: ACG
+      - title: vgmdb
+        loge: 
+        url: https://vgmdb.net/
+        description: 欧美著名acg音乐图书馆 
+        tags: ACG
+      - title: 誠也の部屋
+        loge: 
+        url: https://seiya-saiga.com/
+        description: 著名galgame日文版攻略和存档大全
+        tags: ACG
+      - title: vndb 
+        loge: 
+        url: https://vndb.org/
+        description: 欧美著名galgame图书馆&评分网站 
+       tags: ACG
+  - category: GalGame
+    icon: linecons-star
+    hide_menu: false
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 设计师博客
-    icon: linecons-doc
+      - title: GALXP
+        loge: 
+        url: https://www.galxp.com/
+        description: 免费分享galgame汉化和生肉资源，更新勤快
+        tags: galgame
+      - title: 夏轩阁acg
+        loge: 
+        url: https://xiayuge.top/
+        description: 主要以收录galgame的资源网站
+        tags: galgame
+      - title: 量子ACG
+        loge: 
+        url: https://lzacg.org/
+        description: 提供GalGame汉硬直链下载，资源较多
+        tags: galgame
+      - title: 幽隐恋梦
+        loge: 
+        url: https://ercygame.com/
+        description: 生肉硬盘站，所有游戏均为PC版
+        tags: galgame
+      - title: 05的资源小站
+        loge: 
+        url: https://05fx.glitch.me/
+        description: 某岛学家建的gal资源站
+        tags: galgame
+      - title: 绅士天堂
+        loge: 
+        url: https://www.gogalgame.com/
+        description: 人气较小，但更新勤快
+        tags: galgame
+      - title: GalWorld
+        loge: 
+        url: https://acgngames.net/
+        description: 含有原创和转载的机翻。
+        tags: galgame
+      - title: 忧郁的loli/忧郁的弟弟
+        loge: 
+        url: https://www.mmgal.com/
+        description: 忧郁的loli_忧郁的弟弟，汉化galgame分享站
+        tags: galgame
+      - title: 终点论坛
+        loge: 
+        url: https://bbs.zdfx.net/
+        description: 终点论坛。欢迎来到终点论坛，这里热爱和平，以二次元相关话题为主，努力打造舒心畅快的聊天环境，本论坛是唯一地址，您的支持是论坛的动力
+        tags: galgame
+      - title: 初音的青葱
+        loge: 
+        url: https://www.fufugal.com/
+        description: 
+        tags: galgame
+  - category: ASMR
+    icon: linecons-star
+    hide_menu: false
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 个人博客
-    icon: linecons-doc
+      - title: 爱上ASMR
+        loge:
+        url: http://www.asmrscj.com/
+        description: 发布页，站点域名容易被封
+        tags: asmr
+      - title: ASMR one
+        loge: 
+        url: 
+        description: DLsite上的arms搬运，部分有字幕 
+        tags: asmr
+  - category: 在线里番
+    icon: linecons-star
+    hide_menu: false
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 社区
-    icon: linecons-doc
-    links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
-      - title: V2EX
-        logo: https://images.weserv.nl/?url=https://www.v2ex.com/static/img/v2ex@2x.png&w=60&h=60
-        url: https://www.v2ex.com/?r=Pipecraft
-        display_url: https://www.v2ex.com/
-        description: V2EX 是创意工作者们的社区。这里目前汇聚了超过 400,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。
-        tags: 开发者,设计师
-      - title: Pipecraft 社区
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: BestXTools 社区
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
-        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
-        tags: 在线工具,周刊,社区
+      - title: latinohentai
+        logo: 
+        url: https://latinohentai.com/
+        description: 在线里番,英文界面，轻量级广告
+        tags: 里番
+      - title: ACGN动漫库
+        logo: 
+        url: http://www.acgndmku.com/
+        description: 免费看番，表里均有
+        tags: 里番 表番
+      - title: HentaiDude
+        logo: 
+        url: https://hentaidude.com/
+        description: 含上世纪里番，英文字幕，不全
+        tags: 里番
+      - title: H次元
+        logo: 
+        url: https://h-ciyuan.com/
+        description: 里番全汉化，画质清晰，无需登录
+        tags: 里番
+      - title: hentai.tv
+        logo: 
+        url: https://hentai.tv/
+        description: 无广告|英文字幕
+        tags: 里番
+      - title: muchohentai
+        logo: 
+        url: https://muchohentai.com/home/
+        description: 最高1080P|英文字幕
+        tags: 里番
+      - title: avbebe
+        logo: 
+        url: https://avbebe.com/archives/category/h%e5%8b%95%e7%95%ab%e5%bd%b1%e7%89%87
+        description: 中文繁体字幕，连下个月预告都有
+        tags: 里番
+      - title: hentaimama 
+        logo: 
+        url: https://hentaimama.io/
+        description: 英文字幕|很全|画质无法调
+        tags: 里番
+      - title: Hanime 
+        logo: 
+        url: https://hanime.tv/
+        description: 英文字幕|很全|画质无法调
+        tags: 里番
+      - title: Hanime1
+        logo: 
+        url: https://hanime1.me/
+        description: 知名有中文字幕的H动漫在线播放平台
+        tags: 里番
+      - title: hentaianimezone
+        logo: 
+        url: https://hentaianimezone.com/
+        description: 里番领域展开
+        tags: 里番
