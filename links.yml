@@ -44,52 +44,52 @@ categories:
     icon: inecons-star
     hide_menu: false
     links: 
-      - litle: 菲特动漫
+      - title: 菲特动漫
         loge: 
         url: https://fitacg.com/
         description: 新番资源推送速度快
         tags: 动漫
-      - litle: 萌番组 
+      - title: 萌番组 
         loge: 
         url: https://bangumi.moe/
         description: 小站
         tags: 动漫
-      - litle: 末日動漫資源庫 
+      - title: 末日動漫資源庫 
         loge: 
         url: https://share.acgnx.se/
         description: 部分番剧有4K资源，非常齐全 
         tags: 动漫
-      - litle: VCB-Studio 
+      - title: VCB-Studio 
         loge: 
         url: 国内非常著名动漫压制组
         description: https://vcb-s.com/
         tags: 动漫
-      - litle: acg.rip 
+      - title: acg.rip 
         loge: 
         url: https://acg.rip/
         description: 知名动漫bt下载资源站 
         tags: 动漫
-      - litle: MioBT 
+      - title: MioBT 
         loge: https://api.iowen.cn/favicon/miobt.com.png
         url: http://miobt.com/
         description: 
         tags: 动漫
-      - litle: 漫猫动漫BT 
+      - title: 漫猫动漫BT 
         loge: 
         url: http://www.comicat.org/
         description: 漫猫动漫BT 
         tags: 动漫
-      - litle: 蜜柑计划 
+      - title: 蜜柑计划 
         loge: 
         url: https://mikanani.me/
         description: 蜜柑计划：新一代的动漫下载站 
         tags: 动漫
-      - litle: 爱恋动漫BT 
+      - title: 爱恋动漫BT 
         loge: 
         url: http://www.kisssub.org/
         description: 爱恋动漫BT下载，爱恋BT分享站，动漫下载，BT磁力，字幕组，生肉资源，BD资源 
         tags: 动漫
-      - litle: 动漫花园资源网 
+      - title: 动漫花园资源网 
         loge: 
         url: https://dmhy.anoneko.com/
         description: 动漫花园资源网是一个动漫爱好者交流的平台,提供最及时,最全面的动画,漫画,动漫音乐,动漫下载,BT,ED,动漫游戏,资讯,分享,交流,讨论. 
@@ -98,57 +98,57 @@ categories:
     icon: inecons-star
     hide_menu: false
     links: 
-      - litle: cmoa 
+      - title: cmoa 
         loge: 
         url: https://www.cmoa.jp/
         description: 日本官方最全漫画电子版购买平台
         tags: 购物
-      - litle: Digiket
+      - title: Digiket
         loge: 
         url: https://www.digiket.com/game/
         description: 日本知名ACG网上购物平台
         tags: 购物
-      - litle: 駿河屋
+      - title: 駿河屋
         loge: 
         url: https://www.suruga-ya.jp/
         description: 日本著名中古店
         tags: 购物
-      - litle: AKIBA☆Sofmap
+      - title: AKIBA☆Sofmap
         loge: 
         url: https://a.sofmap.com/
         description: 日本知名ACG网上购物平台
         tags: 购物
-      - litle: Gyutto
+      - title: Gyutto
         loge: 
         url: http://gyutto.com/
         description: 日本知名ACG网上购物平台
         tags: 购物
-      - litle: あみあみ
+      - title: あみあみ
         loge: 
         url: https://www.amiami.jp/
         description: 以手办为主的网购平台
         tags: 购物
-      - litle: とらのあな
+      - title: とらのあな
         loge: 
         url: https://ec.toranoana.jp/tora_r/ec/
         description: 虎の穴，日本著名ACG购买平台
         tags: 购物
-      - litle: Melonbooks 
+      - title: Melonbooks 
         loge: 
         url: https://www.melonbooks.co.jp/
         description: 日本著名ACG网上购物平台 
         tags: 购物
-      - litle: FANZA 
+      - title: FANZA 
         loge: 
         url: https://games.dmm.co.jp
         description: 日本著名R18游戏购买平台 
         tags: 购物
-      - litle: Dlsite 
+      - title: Dlsite 
         loge: 
         url: https://www.dlsite.com/index.html
         description: 日本/台湾/中国知名ACG在线购物平台 
         tags: 购物
-      - litle: Getchu
+      - title: Getchu
         loge: 
         url: http://www.getchu.com/top.html
         description: 日本著名ACG网上购物平台 
