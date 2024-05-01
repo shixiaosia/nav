@@ -32,9 +32,9 @@ link_submission_url: https://github.com/shixiaosia/nav/issues
 ################
 ## 导航栏
 ################
-navigation_urls:
-  - title: 页面1
-    url: page1/
+#navigation_urls:
+#  - title: 页面1
+#    url: page1/
 
 ################
 ## 网址导航数据
