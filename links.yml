@@ -94,7 +94,6 @@ categories:
         url: https://dmhy.anoneko.com/
         description: 动漫花园资源网是一个动漫爱好者交流的平台,提供最及时,最全面的动画,漫画,动漫音乐,动漫下载,BT,ED,动漫游戏,资讯,分享,交流,讨论. 
         tags: 动漫
-
   - category: ACG购物
     icon: inecons-star
     hide_menu: false
@@ -197,7 +196,7 @@ categories:
         loge: 
         url: https://exhentai.org/
         description: 里站
-        tags画 本子
+        tags: 漫画 本子
   - category: ACG图书馆
     icon: linecons-star
     hide_menu: false
